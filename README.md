@@ -19,7 +19,7 @@ Space: Jump (short upward hop).
 E: Rob an NPC when nearby.
 
 Objective:
-Rob all NPCs (gray sprites) within 30 seconds.
+Rob all NPCs within 30 seconds.
 Avoid staying within 50 pixels of an NPC for more than 1 second, or you’ll explode.
 Once all NPCs are robbed, head to the escape door (center of the map) to proceed to the next stage.
 Game Over:
@@ -27,6 +27,7 @@ If the 30-second timer runs out or you linger too long near an NPC, you explode,
 
 Installation
 Clone the Repository: git clone git@github.com:brubis13/PickPocket-Game.git
+
 cd PickPocket-Game
 
 Install Dependencies:
